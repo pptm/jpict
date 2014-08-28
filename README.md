@@ -1,4 +1,4 @@
-CodeIgniter JPICT  Skeleton [![Build Status](https://travis-ci.org/anvoz/CodeIgniter-Skeleton.png?branch=master)](https://travis-ci.org/anvoz/CodeIgniter-Skeleton)
+MY JPICT  PROJECT [![Build Status](https://travis-ci.org/anvoz/CodeIgniter-Skeleton.png?branch=master)](https://travis-ci.org/anvoz/CodeIgniter-Skeleton)
 ====================
 
 CodeIgniter JPICT Skeleton (MYJPICT) is not only a decent starting point for most web apps but also a new experience for CI-based development to ajaxify everything.
@@ -8,6 +8,8 @@ CodeIgniter JPICT Skeleton (MYJPICT) is not only a decent starting point for mos
 ![cis](https://cloud.githubusercontent.com/assets/4688035/2561535/471eba12-b81c-11e3-93d2-130d011f6b13.PNG)
 
 ## Include
+
+CodeIgniter Skeleton
 
 ### Core
 
