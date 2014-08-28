@@ -1,0 +1,9 @@
+DIbangunkan oleh :-
+
+Hasnan bin hasim , penolong pegawai teknologi maklumat kanan @nan asklinux 
+
+
+Aplikasi ini di bangunkan di bawah lesin sumber terbuka v3 (GPL v3)
+
+
+Segala perubahan , pemilikan dan sebagainya adalah tertakluk sepenuhnya di bawah lesen GPL V3 .
