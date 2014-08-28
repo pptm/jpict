@@ -1,9 +1,9 @@
-CodeIgniter Skeleton [![Build Status](https://travis-ci.org/anvoz/CodeIgniter-Skeleton.png?branch=master)](https://travis-ci.org/anvoz/CodeIgniter-Skeleton)
+CodeIgniter JPICT  Skeleton [![Build Status](https://travis-ci.org/anvoz/CodeIgniter-Skeleton.png?branch=master)](https://travis-ci.org/anvoz/CodeIgniter-Skeleton)
 ====================
 
-CodeIgniter Skeleton (CIS) is not only a decent starting point for most web apps but also a new experience for CI-based development to ajaxify everything.
+CodeIgniter JPICT Skeleton (MYJPICT) is not only a decent starting point for most web apps but also a new experience for CI-based development to ajaxify everything.
 
-[Public board on Trello](https://trello.com/b/gOUmrT5J/codeigniter-skeleton)
+[Tunnelbiz Open Source](http://opensource.tunnelbiz.com)
 
 ![cis](https://cloud.githubusercontent.com/assets/4688035/2561535/471eba12-b81c-11e3-93d2-130d011f6b13.PNG)
 
@@ -27,6 +27,7 @@ Add-ons are custom builds of some useful libraries and plugins. They are **not i
 * [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) 2.5.2 (last updated: Apr 19, 2014)
 * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) 9.5.2 (last updated: Dec 13, 2013)
 * [validate.js](https://github.com/rickharrison/validate.js) 1.4 (last updated: Apr 14, 2014)
+* Date Picker (update 8/2014)
 
 ### Example
 
@@ -184,7 +185,11 @@ class Welcome_ajax extends Ajax_Controller {
 Use `alert`, `confirm` and `dialog` functions of the `Response` library to display dialog in client-side.
 
 ## License
+JPICT Projek
 
-Copyright An Vo [@an_voz](https://twitter.com/an_voz), 2013-2014.
+Copyright hasnan hasim (nan asklinux) [@nanasklinux](https://twitter.com/nanasklinux), 2014.
 
+Main porjek 
+[CodeIgniter Skeleton ]Copyright An Vo [@an_voz](https://twitter.com/an_voz), 2013-2014.
+and
 [CodeIgniter License Agreement](http://ellislab.com/codeigniter/user-guide/license.html), everything else is released under the [MIT License](http://opensource.org/licenses/MIT).
